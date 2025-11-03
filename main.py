@@ -30,7 +30,7 @@ def calcular_mediana(lista):
 # Função para calcular a moda
 def calcular_moda(lista):
     # TODO: encontrar o valor que mais aparece
-    # 💡 Dica: use um dicionário para contar as ocorrências
+    # 💡 Dica: use um dicionário para contar as ocorrênciasnnnnnnnn
     pass
 
 
