@@ -23,7 +23,7 @@ def calcular_media(lista):
 # Função para calcular a mediana
 def calcular_mediana(lista):
     # TODO: ordenar a lista e encontrar o elemento do meio
-    # 💡 Dica: se o tamanho for par, tire a média dos dois elementos centrais
+    # 💡 Dica: se o tamanho for par, tire a média dos dois elementos centraisjghjggj
     pass
 
 
